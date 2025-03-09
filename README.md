@@ -2,7 +2,12 @@
 
 A modern, responsive task management application built with React, TypeScript, and Tailwind CSS. The app features a clean interface with dark mode support and smooth animations.
 
-![Task Tracker App](https://i.imgur.com/YourScreenshot.png)
+![Task Tracker App](https://imgur.com/a/bYa2pMk)
+
+![image](https://github.com/user-attachments/assets/6f926ff6-e8ab-4ae6-90d9-1cc88d5536d6)
+
+
+https://splendorous-cobbler-180a4b.netlify.app/
 
 ## Features
 
@@ -80,16 +85,9 @@ A modern, responsive task management application built with React, TypeScript, a
 
 ```
 src/
-├── App.tsx          # Main application component
-├── main.tsx         # Application entry point
+├── App.jsx          # Main application component
+├── main.jsx         # Application entry point
 ├── index.css        # Global styles and Tailwind imports
 └── vite-env.d.ts    # TypeScript declarations
 ```
 
-## License
-
-MIT
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
